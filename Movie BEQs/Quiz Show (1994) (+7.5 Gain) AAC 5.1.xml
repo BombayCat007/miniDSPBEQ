@@ -802,67 +802,67 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.75</q>
-    <boost>-7.0</boost>
+    <freq>15.0</freq>
+    <q>0.9</q>
+    <boost>-13.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9998229927611038,-1.998932656598901,0.9991099499823618,1.998932479372241,-0.9989331199701256,</dec>
-    <hex>0x3f7ff466,0xbfffdd06,0x3f7fc5ab,0x3fffdd05,0xbf7fba15,</hex>
+    <dec>0.9995821892208259,-1.9984141788058998,0.9988324452602969,1.998413388930284,-0.9984154243567382,</dec>
+    <hex>0x3f7fe49e,0xbfffcc09,0x3f7fb37c,0x3fffcc03,0xbf7f9827,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>35.0</freq>
-    <q>0.7</q>
-    <boost>7.0</boost>
+    <freq>15.0</freq>
+    <q>0.9</q>
+    <boost>-13.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006639966192121,-1.9973225654820812,0.9966664098872566,1.9973247347658052,-0.9973282372227446,</dec>
-    <hex>0x3f8015c2,0xbfffa844,0x3f7f2588,0x3fffa856,0xbf7f50e7,</hex>
+    <dec>0.9995821892208259,-1.9984141788058998,0.9988324452602969,1.998413388930284,-0.9984154243567382,</dec>
+    <hex>0x3f7fe49e,0xbfffcc09,0x3f7fb37c,0x3fffcc03,0xbf7f9827,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>35.0</freq>
-    <q>0.7</q>
-    <boost>7.0</boost>
+    <freq>28.0</freq>
+    <q>0.75</q>
+    <boost>7.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006639966192121,-1.9973225654820812,0.9966664098872566,1.9973247347658052,-0.9973282372227446,</dec>
-    <hex>0x3f8015c2,0xbfffa844,0x3f7f2588,0x3fffa856,0xbf7f50e7,</hex>
+    <dec>1.0005462072044433,-1.99804048311279,0.9974995023779892,1.9980420194400246,-0.9980441732551979,</dec>
+    <hex>0x3f8011e6,0xbfffbfca,0x3f7f5c21,0x3fffbfd7,0xbf7f7fd3,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>35.0</freq>
-    <q>0.7</q>
-    <boost>7.0</boost>
+    <freq>28.0</freq>
+    <q>0.75</q>
+    <boost>7.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006639966192121,-1.9973225654820812,0.9966664098872566,1.9973247347658052,-0.9973282372227446,</dec>
-    <hex>0x3f8015c2,0xbfffa844,0x3f7f2588,0x3fffa856,0xbf7f50e7,</hex>
+    <dec>1.0005462072044433,-1.99804048311279,0.9974995023779892,1.9980420194400246,-0.9980441732551979,</dec>
+    <hex>0x3f8011e6,0xbfffbfca,0x3f7f5c21,0x3fffbfd7,0xbf7f7fd3,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>35.0</freq>
-    <q>0.7</q>
-    <boost>7.0</boost>
+    <freq>28.0</freq>
+    <q>0.75</q>
+    <boost>7.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006639966192121,-1.9973225654820812,0.9966664098872566,1.9973247347658052,-0.9973282372227446,</dec>
-    <hex>0x3f8015c2,0xbfffa844,0x3f7f2588,0x3fffa856,0xbf7f50e7,</hex>
+    <dec>1.0005462072044433,-1.99804048311279,0.9974995023779892,1.9980420194400246,-0.9980441732551979,</dec>
+    <hex>0x3f8011e6,0xbfffbfca,0x3f7f5c21,0x3fffbfd7,0xbf7f7fd3,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>100.0</freq>
-    <q>1.0</q>
-    <boost>-0.2</boost>
-    <type>PK</type>
+    <freq>28.0</freq>
+    <q>0.75</q>
+    <boost>7.7</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999248955752552,-1.9933584245725757,0.9934762243320319,1.9933584245725757,-0.9934011199072871,</dec>
-    <hex>0x3f7ffb14,0xbfff265e,0x3f7e5475,0x3fff265e,0xbf7e4f89,</hex>
+    <dec>1.0005462072044433,-1.99804048311279,0.9974995023779892,1.9980420194400246,-0.9980441732551979,</dec>
+    <hex>0x3f8011e6,0xbfffbfca,0x3f7f5c21,0x3fffbfd7,0xbf7f7fd3,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>35.0</freq>
+    <q>5.0</q>
+    <boost>5.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001336710143056,-1.9996512494720202,0.9995228250651705,1.9996512494720202,-0.9996564960794762,</dec>
+    <hex>0x3f800461,0xbffff492,0x3f7fe0ba,0x3ffff492,0xbf7fe97d,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -892,67 +892,67 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.75</q>
-    <boost>-7.0</boost>
+    <freq>15.0</freq>
+    <q>0.9</q>
+    <boost>-13.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9998229927611038,-1.998932656598901,0.9991099499823618,1.998932479372241,-0.9989331199701256,</dec>
-    <hex>0x3f7ff466,0xbfffdd06,0x3f7fc5ab,0x3fffdd05,0xbf7fba15,</hex>
+    <dec>0.9995821892208259,-1.9984141788058998,0.9988324452602969,1.998413388930284,-0.9984154243567382,</dec>
+    <hex>0x3f7fe49e,0xbfffcc09,0x3f7fb37c,0x3fffcc03,0xbf7f9827,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>35.0</freq>
-    <q>0.7</q>
-    <boost>7.0</boost>
+    <freq>15.0</freq>
+    <q>0.9</q>
+    <boost>-13.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006639966192121,-1.9973225654820812,0.9966664098872566,1.9973247347658052,-0.9973282372227446,</dec>
-    <hex>0x3f8015c2,0xbfffa844,0x3f7f2588,0x3fffa856,0xbf7f50e7,</hex>
+    <dec>0.9995821892208259,-1.9984141788058998,0.9988324452602969,1.998413388930284,-0.9984154243567382,</dec>
+    <hex>0x3f7fe49e,0xbfffcc09,0x3f7fb37c,0x3fffcc03,0xbf7f9827,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>35.0</freq>
-    <q>0.7</q>
-    <boost>7.0</boost>
+    <freq>28.0</freq>
+    <q>0.75</q>
+    <boost>7.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006639966192121,-1.9973225654820812,0.9966664098872566,1.9973247347658052,-0.9973282372227446,</dec>
-    <hex>0x3f8015c2,0xbfffa844,0x3f7f2588,0x3fffa856,0xbf7f50e7,</hex>
+    <dec>1.0005462072044433,-1.99804048311279,0.9974995023779892,1.9980420194400246,-0.9980441732551979,</dec>
+    <hex>0x3f8011e6,0xbfffbfca,0x3f7f5c21,0x3fffbfd7,0xbf7f7fd3,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>35.0</freq>
-    <q>0.7</q>
-    <boost>7.0</boost>
+    <freq>28.0</freq>
+    <q>0.75</q>
+    <boost>7.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006639966192121,-1.9973225654820812,0.9966664098872566,1.9973247347658052,-0.9973282372227446,</dec>
-    <hex>0x3f8015c2,0xbfffa844,0x3f7f2588,0x3fffa856,0xbf7f50e7,</hex>
+    <dec>1.0005462072044433,-1.99804048311279,0.9974995023779892,1.9980420194400246,-0.9980441732551979,</dec>
+    <hex>0x3f8011e6,0xbfffbfca,0x3f7f5c21,0x3fffbfd7,0xbf7f7fd3,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>35.0</freq>
-    <q>0.7</q>
-    <boost>7.0</boost>
+    <freq>28.0</freq>
+    <q>0.75</q>
+    <boost>7.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006639966192121,-1.9973225654820812,0.9966664098872566,1.9973247347658052,-0.9973282372227446,</dec>
-    <hex>0x3f8015c2,0xbfffa844,0x3f7f2588,0x3fffa856,0xbf7f50e7,</hex>
+    <dec>1.0005462072044433,-1.99804048311279,0.9974995023779892,1.9980420194400246,-0.9980441732551979,</dec>
+    <hex>0x3f8011e6,0xbfffbfca,0x3f7f5c21,0x3fffbfd7,0xbf7f7fd3,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>100.0</freq>
-    <q>1.0</q>
-    <boost>-0.2</boost>
-    <type>PK</type>
+    <freq>28.0</freq>
+    <q>0.75</q>
+    <boost>7.7</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999248955752552,-1.9933584245725757,0.9934762243320319,1.9933584245725757,-0.9934011199072871,</dec>
-    <hex>0x3f7ffb14,0xbfff265e,0x3f7e5475,0x3fff265e,0xbf7e4f89,</hex>
+    <dec>1.0005462072044433,-1.99804048311279,0.9974995023779892,1.9980420194400246,-0.9980441732551979,</dec>
+    <hex>0x3f8011e6,0xbfffbfca,0x3f7f5c21,0x3fffbfd7,0xbf7f7fd3,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>35.0</freq>
+    <q>5.0</q>
+    <boost>5.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001336710143056,-1.9996512494720202,0.9995228250651705,1.9996512494720202,-0.9996564960794762,</dec>
+    <hex>0x3f800461,0xbffff492,0x3f7fe0ba,0x3ffff492,0xbf7fe97d,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Quiz Show</beq_title><beq_alt_title /><beq_sortTitle>quiz show</beq_sortTitle><beq_year>1994</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Quiz%20Show%20(1994)%20(%2B7.5%20Gain)%20AAC%205.1%20peak%20spectrum.png</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Quiz%20Show%20(1994)%20(%2B7.5%20Gain)%20AAC%205.1.png</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>7.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Herbert Stempel's transformation into an unexpected television personality unfolds as he secures victory on the cherished American game show, 'Twenty-One.' However, when the show introduces the highly skilled contestant Charles Van Doren to replace Stempel, it compels Stempel to let out his frustrations and call out the show as rigged. Lawyer Richard Goodwin steps in and attempts to uncover the orchestrated deception behind the scenes.</beq_overview><beq_rating>PG-13</beq_rating><beq_author>BombayCat007</beq_author><beq_avs /><beq_theMovieDB>11450</beq_theMovieDB><beq_poster>/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg</beq_poster><beq_runtime>133</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="36">History</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Quiz Show</beq_title><beq_alt_title /><beq_sortTitle>quiz show</beq_sortTitle><beq_year>1994</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Quiz%20Show%20(1994)%20(%2B7.5%20Gain)%20AAC%205.1%20peak%20spectrum.png</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Quiz%20Show%20(1994)%20(%2B7.5%20Gain)%20AAC%205.1.png</beq_pvaURL><beq_edition /><beq_season /><beq_note>(+7.5 MV Adjustment)</beq_note><beq_warning /><beq_gain>7.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Herbert Stempel's transformation into an unexpected television personality unfolds as he secures victory on the cherished American game show, 'Twenty-One.' However, when the show introduces the highly skilled contestant Charles Van Doren to replace Stempel, it compels Stempel to let out his frustrations and call out the show as rigged. Lawyer Richard Goodwin steps in and attempts to uncover the orchestrated deception behind the scenes.</beq_overview><beq_rating>PG-13</beq_rating><beq_author>BombayCat007</beq_author><beq_avs /><beq_theMovieDB>11450</beq_theMovieDB><beq_poster>/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg</beq_poster><beq_runtime>133</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="36">History</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
