@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
+    <freq>45.0</freq>
     <q>0.75</q>
-    <boost>5.0</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <dec>1.0007049206637637,-1.99671098688985,0.9960184407780529,1.9967141437691072,-0.9967202045625596,</dec>
+    <hex>0x3f801719,0xbfff943a,0x3f7efb11,0x3fff9454,0xbf7f290e,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>45.0</freq>
     <q>0.75</q>
-    <boost>5.0</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <dec>1.0007049206637637,-1.99671098688985,0.9960184407780529,1.9967141437691072,-0.9967202045625596,</dec>
+    <hex>0x3f801719,0xbfff943a,0x3f7efb11,0x3fff9454,0xbf7f290e,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.0</freq>
-    <q>0.75</q>
-    <boost>5.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>10.0</freq>
-    <q>0.75</q>
-    <boost>5.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
+    <freq>45.0</freq>
     <q>0.75</q>
-    <boost>5.0</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <dec>1.0007049206637637,-1.99671098688985,0.9960184407780529,1.9967141437691072,-0.9967202045625596,</dec>
+    <hex>0x3f801719,0xbfff943a,0x3f7efb11,0x3fff9454,0xbf7f290e,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>45.0</freq>
     <q>0.75</q>
-    <boost>5.0</boost>
+    <boost>6.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <dec>1.0007049206637637,-1.99671098688985,0.9960184407780529,1.9967141437691072,-0.9967202045625596,</dec>
+    <hex>0x3f801719,0xbfff943a,0x3f7efb11,0x3fff9454,0xbf7f290e,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.0</freq>
-    <q>0.75</q>
-    <boost>5.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>10.0</freq>
-    <q>0.75</q>
-    <boost>5.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Inside Llewyn Davis</beq_title><beq_alt_title /><beq_sortTitle>inside llewyn davis</beq_sortTitle><beq_year>2013</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Inside%20Llewyn%20Davis%20(2013)%20(%2B6.5%20Gain)%20AAC%205.1%20peak%20spectrum.png</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/BombayCat007/Images/main/Images/Inside%20Llewyn%20Davis%20(2013)%20(%2B6.5%20Gain)%20AAC%205.1.png</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>6.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewyn Davis struggles with money, relationships, and his uncertain future.</beq_overview><beq_rating>R</beq_rating><beq_author>BombayCat007</beq_author><beq_avs /><beq_theMovieDB>86829</beq_theMovieDB><beq_poster>/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg</beq_poster><beq_runtime>105</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="10402">Music</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Inside Llewyn Davis</beq_title><beq_alt_title /><beq_sortTitle>inside llewyn davis</beq_sortTitle><beq_year>2013</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Inside%20Llewyn%20Davis%20(2013)%20(%2B6.5%20Gain)%20AAC%205.1%20peak%20spectrum.png</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/BombayCat007/Images/refs/heads/main/Images/Inside%20Llewyn%20Davis%20(2013)%20(%2B6.5%20Gain)%20AAC%205.1.png</beq_pvaURL><beq_edition /><beq_season /><beq_note>(+6.5 MV Adjustment)</beq_note><beq_warning /><beq_gain>6.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewyn Davis struggles with money, relationships, and his uncertain future.</beq_overview><beq_rating>R</beq_rating><beq_author>BombayCat007</beq_author><beq_avs /><beq_theMovieDB>86829</beq_theMovieDB><beq_poster>/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg</beq_poster><beq_runtime>105</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="10402">Music</genre></beq_genres></beq_metadata></setting>
